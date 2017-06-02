@@ -1,0 +1,55 @@
+.articlered {
+	background-color: #FF1031;
+	font-family: "Barrio";
+	font-size: 1.5em;
+	color:#FFD331;
+	line-height: 1.3em;
+	padding-top: 20px;
+	border: 2px dotted #FFD331 ;
+	border-radius:5px;
+}
+
+.articleorange {
+	background-color: #FF4327;
+	font-family: "Bubbler One";
+	font-size: 2em;
+	color:#2B0B07;
+	line-height: 1.75em;
+	padding-right: 10px;
+	border: 5px dashed black;
+	border-radius:30px; 
+}
+
+.articleyellow {
+	background-color: #E4B800;
+	font-family: "Open Sans";
+	font-size: 3vh;
+	color:#1B5C25;
+	line-height: 2.5em;
+	padding: 12%;
+	border: 12px groove #1B5C25 ;
+	border-radius: 30%;
+}
+
+.articlegreen {
+	background-color: #fff;
+	font-family: "Raleway";
+	font-size: large;
+	color:#1B5C36;
+	line-height: 4.5vh;
+	padding-bottom: 3%;
+	border-left: 4px solid tomato ;
+	border-radius: 50%;
+
+}
+
+.articleblue {
+	background-color:#0B4042;
+	font-family: "Slabo";
+	font-size: smaller;
+	color:#2B0B07;
+	line-height: 8vh;
+	padding-right:50px;
+	border-right: 8px double #2B0B07  ;
+	border-radius: 100%;
+}
